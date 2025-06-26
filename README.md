@@ -28,7 +28,8 @@ What's the weather like in Lahore?
 Find flights to Islamabad on 2025-07-05.
 
 Give me flight options to Skardu for next Monday.
-🛫 Supported Flight Destinations
+
+🛫 Supported Flight Destinations:
 The app supports flights from Karachi to:
 
 Lahore
