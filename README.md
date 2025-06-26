@@ -1,4 +1,4 @@
-
+we
  Travel Assistant Chatbot (Chainlit + Gemini + Function Tools)
  =============================================================
 
@@ -48,8 +48,7 @@ Skardu
 Gilgit
 
 ![today gilgit weather](https://github.com/user-attachments/assets/9009d2e1-3247-40c9-a9a4-c6b80612f976)
-![today gilgit weather](https://github.com/user-attachments/assets/9009d2e1-3247-40c9-a9a4-c6b80612f976)
-![flight available](https://github.com/user-attachments/assets/1c57c377-78e5-4c7f-831b-e3fa8aa25664)
+
 ![flight available](https://github.com/user-attachments/assets/1c57c377-78e5-4c7f-831b-e3fa8aa25664)
 
 
